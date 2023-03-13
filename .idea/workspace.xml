@@ -5,18 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="526255a0-0f91-434e-94a1-c0ee9da6d1aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/KeyBoardMouseOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/MoveToElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/RobotClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/ScreenShotTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/SeleniumBasicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/SeleniumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/KeyBoardMouseOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridgelabzSelinium/KeyBoardMouseOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/MoveToElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridgelabzSelinium/MoveToElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/RobotClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridgelabzSelinium/RobotClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/ScreenShotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridgelabzSelinium/ScreenShotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/SeleniumBasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridgelabzSelinium/SeleniumBasicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bridgelabzSelinium/SeleniumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +146,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bridgelabz/Selinium/SeleniumTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/bridgelabzSelinium/SeleniumTest.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

@@ -1,4 +1,4 @@
-package com.bridgelabz.Selinium;
+package bridgelabzSelinium;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.By;
